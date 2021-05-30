@@ -23,6 +23,9 @@ environment:
 dependencies:
   font_awesome_flutter: any
   flutter_neumorphic: ^3.0.3
+  shared_preferences:
+  http:
+  google_fonts:
   flutter:
     sdk: flutter
 
